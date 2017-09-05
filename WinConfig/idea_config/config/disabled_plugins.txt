@@ -1,0 +1,15 @@
+ClearcasePlugin
+Coverage
+Emma
+PerforceDirectPlugin
+TFS
+com.intellij.flex
+com.jetbrains.restClient
+cucumber-groovy
+cucumber-java
+hg4idea
+org.coffeescript
+org.jetbrains.plugins.haml
+org.jetbrains.plugins.less
+org.jetbrains.plugins.sass
+org.jetbrains.plugins.stylus

@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="G:/IdeaProjects/helloword" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="G:/IdeaProjects/helloword" />
+      </list>
+    </option>
+    <option name="lastPath" value="G:/IdeaProjects/helloword" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="G:/IdeaProjects/helloword">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504586047839" />
+              <option name="buildTimestamp" value="1503351241426" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="G:/IdeaProjects" />
+  </component>
+</application>
