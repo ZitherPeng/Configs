@@ -6,9 +6,11 @@
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="project.wizard.template" value="Java" />
-    <property name="file.chooser.recent.files" value="I:/Application/Java/jdk1.8.0_131" />
+    <property name="file.chooser.recent.files" value="I:/Utils/eclipse/epf/codetemplates.xml&#10;G:/Repositories/Configs/WinConfig/idea_config/config/codestyles/Monokai_Sublime.xml&#10;I:/Application/Java/jdk1.8.0_131" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="37" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
   </component>
 </application>

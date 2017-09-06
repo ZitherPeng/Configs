@@ -11,3 +11,4 @@
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:-OmitStackTraceInFastThrow
 -Dfile.encoding=UTF-8
+-Dawt.useSystemAAFontSettings=on
