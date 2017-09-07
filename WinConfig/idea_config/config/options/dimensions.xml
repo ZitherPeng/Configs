@@ -10,7 +10,16 @@
     <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="689" y="303" />
     <location key="EditParametersPopupWindow.0.0.1920.1080" x="764" y="382" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="168" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="581" y="66" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="679" y="196" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="414" y="138" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="338" />
     <size key="SettingsEditor.0.0.1920.1080" width="1038" height="623" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1310" height="671" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1866" height="257" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1866" height="257" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1866" height="257" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1866" height="257" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1092" height="902" />
   </component>
 </application>

@@ -1,8 +1,10 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="ShowSettings@MainToolbar" count="1" />
-      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="7" />
+      <entry action="Run@MainToolbar" count="1" />
+      <entry action="ShowSettings@MainToolbar" count="2" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="11" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
     </counts>
   </component>
 </application>
