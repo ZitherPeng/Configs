@@ -1,0 +1,14 @@
+[user]
+	name = zither
+	email = 325831871@qq.com
+[alias]
+	ci = commit
+	st = status
+	hi = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+[gui]
+	recentrepo = G:/Repositories/Notes
+	encoding = UTF-8
+[core]
+	safecrlf = false
+[credential]
+	helper = wincred
