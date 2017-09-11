@@ -57,6 +57,11 @@
         <option name="FOREGROUND" value="52e3f6" />
       </value>
     </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="93edb2" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d9e577" />
@@ -130,12 +135,12 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FOREGROUND" value="93edb2" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FOREGROUND" value="93edb2" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -472,7 +477,7 @@
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FOREGROUND" value="93edb2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -517,12 +522,12 @@
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FOREGROUND" value="93edb2" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a7ec21" />
+        <option name="FOREGROUND" value="93edb2" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

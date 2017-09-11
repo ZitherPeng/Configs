@@ -22,14 +22,14 @@
       <entry action="EditorChooseLookupItemReplace" count="1" />
       <entry action="EditorCompleteStatement" count="3" />
       <entry action="EditorContextInfo" count="25" />
-      <entry action="EditorCopy" count="5" />
+      <entry action="EditorCopy" count="6" />
       <entry action="EditorDeleteLine" count="6" />
       <entry action="EditorDown" count="102" />
       <entry action="EditorDuplicate" count="10" />
       <entry action="EditorEnter" count="12" />
       <entry action="EditorEscape" count="10" />
       <entry action="EditorLeft" count="66" />
-      <entry action="EditorPaste" count="13" />
+      <entry action="EditorPaste" count="18" />
       <entry action="EditorRight" count="57" />
       <entry action="EditorSelectWord" count="3" />
       <entry action="EditorStartNewLine" count="3" />
@@ -77,7 +77,7 @@
       <entry action="ShowIntentionActions" count="7" />
       <entry action="ShowProcessWindow" count="1" />
       <entry action="ShowProjectStructureSettings" count="6" />
-      <entry action="ShowSettings" count="130" />
+      <entry action="ShowSettings" count="132" />
       <entry action="SmartTypeCompletion" count="2" />
       <entry action="Subversion.ShareWholeProject" count="1" />
       <entry action="SurroundWith" count="4" />
