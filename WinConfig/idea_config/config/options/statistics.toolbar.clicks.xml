@@ -2,12 +2,19 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="Run@MainToolbar" count="1" />
-      <entry action="ShowSettings@MainToolbar" count="2" />
-      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="23" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="1" />
+      <entry action="ShowSettings@MainToolbar" count="3" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="32" />
       <entry action="com.intellij.codeInsight.template.impl.TemplateListPanel$6@ToolbarDecorator" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@ProjectStructureArtifactEditor" count="2" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$7@KeymapEdit" count="1" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="19" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="4" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.artifacts.actions.AddCompositeElementAction@ProjectStructureArtifactEditor" count="4" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.artifacts.actions.RemovePackagingElementAction@ProjectStructureArtifactEditor" count="2" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.classpath.ClasspathPanelImpl$6@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="7" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="27" />
     </counts>
   </component>
 </application>

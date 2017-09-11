@@ -10,7 +10,7 @@
     <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="689" y="303" />
     <location key="EditParametersPopupWindow.0.0.1920.1080" x="764" y="382" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="168" />
-    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="327" y="120" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="395" y="160" />
     <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="679" y="196" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="350" y="60" />
     <location key="StructurePopup.0.0.1920.1080@120dpi" x="732" y="328" />
@@ -25,9 +25,11 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="721" y="154" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080@120dpi" x="707" y="332" />
     <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="428" y="325" />
+    <location key="DetectedRootsChooserDialog.0.0.1920.1080@120dpi" x="769" y="202" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080@120dpi" x="901" y="195" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="338" />
     <size key="SettingsEditor.0.0.1920.1080" width="1038" height="623" />
-    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1335" height="774" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1335" height="836" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1920" height="331" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1920" height="331" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1920" height="331" />

@@ -2,7 +2,7 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Delete" count="1" />
-      <entry action="$Undo" count="20" />
+      <entry action="$Undo" count="21" />
       <entry action="ActivateFavoritesToolWindow" count="5" />
       <entry action="ActivateProjectToolWindow" count="3" />
       <entry action="ActivateTerminalToolWindow" count="1" />
@@ -16,20 +16,20 @@
       <entry action="Debug" count="1" />
       <entry action="EditCustomProperties" count="4" />
       <entry action="EditCustomVmOptions" count="1" />
-      <entry action="EditorBackSpace" count="245" />
+      <entry action="EditorBackSpace" count="247" />
       <entry action="EditorChooseLookupItem" count="22" />
       <entry action="EditorChooseLookupItemCompleteStatement" count="1" />
       <entry action="EditorChooseLookupItemReplace" count="1" />
       <entry action="EditorCompleteStatement" count="3" />
       <entry action="EditorContextInfo" count="25" />
-      <entry action="EditorCopy" count="2" />
+      <entry action="EditorCopy" count="5" />
       <entry action="EditorDeleteLine" count="6" />
       <entry action="EditorDown" count="102" />
       <entry action="EditorDuplicate" count="10" />
       <entry action="EditorEnter" count="12" />
       <entry action="EditorEscape" count="10" />
       <entry action="EditorLeft" count="66" />
-      <entry action="EditorPaste" count="6" />
+      <entry action="EditorPaste" count="13" />
       <entry action="EditorRight" count="57" />
       <entry action="EditorSelectWord" count="3" />
       <entry action="EditorStartNewLine" count="3" />
@@ -46,11 +46,11 @@
       <entry action="GotoBookmark4" count="1" />
       <entry action="GotoBookmark6" count="2" />
       <entry action="GotoClass" count="2" />
-      <entry action="GotoDeclaration" count="3" />
-      <entry action="GotoFile" count="3" />
-      <entry action="GotoImplementation" count="1" />
+      <entry action="GotoDeclaration" count="8" />
+      <entry action="GotoFile" count="4" />
+      <entry action="GotoImplementation" count="2" />
       <entry action="GotoSymbol" count="1" />
-      <entry action="HideActiveWindow" count="1" />
+      <entry action="HideActiveWindow" count="2" />
       <entry action="HippieCompletion" count="7" />
       <entry action="ImportSettings" count="1" />
       <entry action="InsertLiveTemplate" count="8" />
@@ -63,24 +63,27 @@
       <entry action="NewModule" count="1" />
       <entry action="NewProject" count="1" />
       <entry action="NextTemplateVariable" count="1" />
+      <entry action="OpenFile" count="1" />
       <entry action="OptimizeImports" count="1" />
       <entry action="OverrideMethods" count="3" />
       <entry action="RecentFiles" count="6" />
-      <entry action="ReciteWords" count="11" />
+      <entry action="ReciteWords" count="17" />
       <entry action="ReformatCode" count="5" />
       <entry action="Run" count="2" />
       <entry action="RunClass" count="2" />
-      <entry action="SaveAll" count="32" />
-      <entry action="SearchEverywhere" count="2" />
+      <entry action="SaveAll" count="36" />
+      <entry action="SearchEverywhere" count="3" />
       <entry action="SelectNextOccurrence" count="7" />
       <entry action="ShowIntentionActions" count="7" />
       <entry action="ShowProcessWindow" count="1" />
-      <entry action="ShowProjectStructureSettings" count="3" />
-      <entry action="ShowSettings" count="98" />
+      <entry action="ShowProjectStructureSettings" count="6" />
+      <entry action="ShowSettings" count="130" />
       <entry action="SmartTypeCompletion" count="2" />
       <entry action="Subversion.ShareWholeProject" count="1" />
       <entry action="SurroundWith" count="4" />
       <entry action="Switcher" count="23" />
+      <entry action="ToggleInlineHintsAction" count="1" />
+      <entry action="ToggleLineBreakpoint" count="4" />
       <entry action="UnselectPreviousOccurrence" count="3" />
       <entry action="ViewToolBar" count="1" />
       <entry action="ViewToolButtons" count="1" />

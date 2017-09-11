@@ -2,25 +2,37 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="G:/IdeaProjects/JspRun" />
         <option value="G:/IdeaProjects/helloword" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="G:/IdeaProjects/helloword" />
+        <option value="G:/IdeaProjects/JspRun" />
       </list>
     </option>
-    <option name="lastPath" value="G:/IdeaProjects/helloword" />
+    <option name="lastPath" value="G:/IdeaProjects/JspRun" />
     <option name="additionalInfo">
       <map>
+        <entry key="G:/IdeaProjects/JspRun">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505112868482" />
+              <option name="buildTimestamp" value="1503351261932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="G:/IdeaProjects/helloword">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-172.3968.16" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1505108342694" />
-              <option name="buildTimestamp" value="1503351295302" />
+              <option name="projectOpenTimestamp" value="1505111601904" />
+              <option name="buildTimestamp" value="1503351255386" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
