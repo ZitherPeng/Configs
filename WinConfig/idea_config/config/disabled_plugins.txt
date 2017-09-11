@@ -1,15 +1,22 @@
+AngularJS
+CFML Support
 ClearcasePlugin
 Coverage
 Emma
+Key Promoter X
 PerforceDirectPlugin
 TFS
+com.intellij.aspectj
 com.intellij.flex
+com.jetbrains.plugins.asp
 com.jetbrains.restClient
 cucumber-groovy
 cucumber-java
 hg4idea
 org.coffeescript
+org.jetbrains.android
 org.jetbrains.plugins.haml
 org.jetbrains.plugins.less
 org.jetbrains.plugins.sass
 org.jetbrains.plugins.stylus
+training

@@ -3,8 +3,11 @@
     <counts>
       <entry action="Run@MainToolbar" count="1" />
       <entry action="ShowSettings@MainToolbar" count="2" />
-      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="11" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="23" />
+      <entry action="com.intellij.codeInsight.template.impl.TemplateListPanel$6@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$7@KeymapEdit" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="19" />
     </counts>
   </component>
 </application>

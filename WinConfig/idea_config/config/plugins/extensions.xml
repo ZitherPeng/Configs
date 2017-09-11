@@ -26,6 +26,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.9.png">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.Access Transformers">
       <plugins>
         <option name="myPlugins">
@@ -112,6 +125,32 @@
               <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.aidl">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.aj">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.aspectj" />
+              <option name="myPluginName" value="AspectJ Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </set>
         </option>
@@ -275,6 +314,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ascx">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.asp" />
+              <option name="myPluginName" value="ASP" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.asm">
       <plugins>
         <option name="myPlugins">
@@ -293,6 +345,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.asp">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.asp" />
+              <option name="myPluginName" value="ASP" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.asproject">
       <plugins>
         <option name="myPlugins">
@@ -301,6 +366,19 @@
               <option name="myPluginId" value="com.google.idea.bazel.ijwb" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.aspx">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.asp" />
+              <option name="myPluginName" value="ASP" />
+              <option name="myBundled" value="true" />
             </plugin>
           </set>
         </option>
@@ -734,6 +812,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.cfc">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="CFML Support" />
+              <option name="myPluginName" value="CFML Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.cfg">
       <plugins>
         <option name="myPlugins">
@@ -760,6 +851,32 @@
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.cfm">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="CFML Support" />
+              <option name="myPluginName" value="CFML Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.cfml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="CFML Support" />
+              <option name="myPluginName" value="CFML Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </set>
         </option>
@@ -1994,6 +2111,19 @@
               <option name="myPluginId" value="GLSL" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.fs">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </set>
         </option>
@@ -3903,6 +4033,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ng">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="AngularJS" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.nginx">
       <plugins>
         <option name="myPlugins">
@@ -4030,6 +4173,19 @@
               <option name="myPluginId" value="com.sqide.test" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.nvg.xml">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </set>
         </option>
@@ -5326,6 +5482,11 @@
         <option name="myPlugins">
           <set>
             <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+            <plugin>
               <option name="myPluginId" value="com.techern.oxidize" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
@@ -5334,6 +5495,19 @@
               <option name="myPluginId" value="org.rust.lang" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.rsh">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </set>
         </option>
