@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="G:/IdeaProjects/JspRun" />
+        <option value="G:/IdeaProjects/mavendemo" />
         <option value="G:/IdeaProjects/helloword" />
       </list>
     </option>
@@ -20,7 +21,7 @@
               <option name="build" value="IU-172.3968.16" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1505112868482" />
+              <option name="projectOpenTimestamp" value="1505126945940" />
               <option name="buildTimestamp" value="1503351261932" />
             </RecentProjectMetaInfo>
           </value>
@@ -33,6 +34,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1505111601904" />
               <option name="buildTimestamp" value="1503351255386" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/IdeaProjects/mavendemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505126870452" />
+              <option name="buildTimestamp" value="1503351261932" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

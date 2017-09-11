@@ -16,7 +16,7 @@
     <location key="StructurePopup.0.0.1920.1080@120dpi" x="732" y="328" />
     <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="469" y="107" />
     <location key="#Vim_Emulation.0.0.1920.1080@120dpi" x="383" y="153" />
-    <location key="new project wizard.0.0.1920.1080@120dpi" x="585" y="52" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="449" y="193" />
     <location key="#Notifications.0.0.1920.1080@120dpi" x="647" y="178" />
     <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="633" y="410" />
     <location key="svn.repositoryBrowser.0.0.1920.1080@120dpi" x="711" y="161" />
@@ -27,6 +27,7 @@
     <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="428" y="325" />
     <location key="DetectedRootsChooserDialog.0.0.1920.1080@120dpi" x="769" y="202" />
     <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080@120dpi" x="901" y="195" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="312" y="0" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="338" />
     <size key="SettingsEditor.0.0.1920.1080" width="1038" height="623" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1335" height="836" />

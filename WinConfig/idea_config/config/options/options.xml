@@ -6,7 +6,7 @@
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="$APPLICATION_CONFIG_DIR$/colors/soft-color_0.icls&#10;G:/Repositories/Configs/WinConfig/idea_config/config/colors/Lovecraft.icls&#10;G:/IdeaProjects/JspRun&#10;G:/IdeaProjects/JspRun/.project&#10;G:/Repositories/Configs/WinConfig/idea_config/config/extend-jar/ReciteWords.jar&#10;G:/IdeaProjects/helloword&#10;I:/Utils/eclipse/epf/codetemplates.xml&#10;G:/Repositories/Configs/WinConfig/idea_config/config/codestyles/Monokai_Sublime.xml&#10;I:/Application/Java/jdk1.8.0_131" />
+    <property name="file.chooser.recent.files" value="G:/maven_dependcies&#10;D:/Application/apache-maven-3.5.0/conf/settings.xml&#10;G:/Repositories/Configs/WinConfig/idea_config/config/colors/soft-color_0.icls&#10;G:/Repositories/Configs/WinConfig/idea_config/config/colors/Lovecraft.icls&#10;G:/IdeaProjects/JspRun&#10;G:/IdeaProjects/JspRun/.project&#10;G:/Repositories/Configs/WinConfig/idea_config/config/extend-jar/ReciteWords.jar&#10;G:/IdeaProjects/helloword&#10;I:/Utils/eclipse/epf/codetemplates.xml&#10;G:/Repositories/Configs/WinConfig/idea_config/config/codestyles/Monokai_Sublime.xml&#10;I:/Application/Java/jdk1.8.0_131" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="37" />
@@ -18,7 +18,7 @@
     <property name="ideavim.statistics.timestamp" value="1505095487263" />
     <property name="KEYMAP" value="down&#10;up&#10;j" />
     <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
