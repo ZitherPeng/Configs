@@ -6,9 +6,12 @@
 	st = status
 	hi = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 [gui]
-	recentrepo = G:/Repositories/Notes
 	encoding = UTF-8
 [core]
 	safecrlf = false
 [credential]
 	helper = wincred
+[i18n]  
+    commitencoding = utf-8  #log编码  
+[svn]  
+    pathnameencoding = utf-8  #支持中文路径 
