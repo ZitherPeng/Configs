@@ -1,33 +1,66 @@
 <application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="zitherdemo" values="JAVA,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1505988495992" />
+    </group>
+    <group name="images.ide.background">
+      <project id="zitherdemo" values="frame=0,editor=0" collectionTime="1505988496141" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="zitherdemo" values="Application" collectionTime="1505988495841" />
+    </group>
+    <group name="vcs-options">
+      <project id="zitherdemo" values="changelist.preselect.existing.disabled,commit.before.check.files.up.to.date.disabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,commit.before.check.code.cleanup.disabled" collectionTime="1505988495838" />
+    </group>
+    <group name="Git">
+      <project id="zitherdemo" values="config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1505988496155" />
+    </group>
+    <group name="module-language-level">
+      <project id="zitherdemo" values="JDK_1_5" collectionTime="1505988496149" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="zitherdemo" values="Project" collectionTime="1505988496507" />
+    </group>
+    <group name="module type">
+      <project id="zitherdemo" values="JAVA_MODULE" collectionTime="1505988495840" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="zitherdemo" values="ECMAScript 5.1" collectionTime="1505988496507" />
+    </group>
+  </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="StripeButton[Version_Control].hidden" count="1" />
       <entry feature="StripeButton[Version_Control].shown" count="1" />
-      <entry feature="execute.Application.Debug" count="2" />
-      <entry feature="execute.Application.Run" count="6" />
+      <entry feature="execute.Application.Debug" count="3" />
+      <entry feature="execute.Application.Run" count="10" />
       <entry feature="execute.JarApplication.Run" count="2" />
       <entry feature="ide.help.Colorblind_Settings" count="1" />
-      <entry feature="ide.settings.Appearance" count="62" />
+      <entry feature="ide.settings.Appearance" count="63" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
       <entry feature="ide.settings.Color_Scheme" count="12" />
       <entry feature="ide.settings.Color_Scheme_Font" count="25" />
       <entry feature="ide.settings.Compiler" count="1" />
       <entry feature="ide.settings.Console_Font" count="14" />
+      <entry feature="ide.settings.Editor_Tabs" count="3" />
       <entry feature="ide.settings.File_Encodings" count="1" />
       <entry feature="ide.settings.Font" count="10" />
       <entry feature="ide.settings.General" count="10" />
       <entry feature="ide.settings.GitHub" count="1" />
-      <entry feature="ide.settings.Importing" count="1" />
-      <entry feature="ide.settings.Java" count="12" />
+      <entry feature="ide.settings.Importing" count="3" />
+      <entry feature="ide.settings.Java" count="17" />
       <entry feature="ide.settings.Java_Compiler" count="1" />
       <entry feature="ide.settings.Keymap" count="12" />
-      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.Language_Defaults" count="2" />
       <entry feature="ide.settings.Live_Templates" count="5" />
-      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Maven" count="2" />
       <entry feature="ide.settings.Plugins" count="4" />
       <entry feature="ide.settings.Subversion" count="7" />
       <entry feature="ide.settings.Version_Control" count="3" />
-      <entry feature="ideaapp.started" count="29" />
-      <entry feature="terminal.win" count="3" />
+      <entry feature="ideaapp.started" count="32" />
+      <entry feature="terminal.win" count="4" />
       <entry feature="tips.of.the.day.next" count="36" />
       <entry feature="tips.of.the.day.prev" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
