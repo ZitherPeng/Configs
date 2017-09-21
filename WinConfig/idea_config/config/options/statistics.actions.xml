@@ -1,8 +1,8 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="$Delete" count="2" />
-      <entry action="$Undo" count="21" />
+      <entry action="$Delete" count="3" />
+      <entry action="$Undo" count="23" />
       <entry action="ActivateFavoritesToolWindow" count="5" />
       <entry action="ActivateProjectToolWindow" count="3" />
       <entry action="ActivateTerminalToolWindow" count="1" />
@@ -10,21 +10,21 @@
       <entry action="ChooseRunConfiguration" count="3" />
       <entry action="CodeCompletion" count="2" />
       <entry action="Compile" count="1" />
-      <entry action="CompileDirty" count="1" />
+      <entry action="CompileDirty" count="2" />
       <entry action="CompileProject" count="1" />
-      <entry action="CopyReference" count="1" />
-      <entry action="Debug" count="1" />
+      <entry action="CopyReference" count="2" />
+      <entry action="Debug" count="2" />
       <entry action="EditCustomProperties" count="4" />
       <entry action="EditCustomVmOptions" count="1" />
-      <entry action="EditorBackSpace" count="250" />
-      <entry action="EditorChooseLookupItem" count="22" />
+      <entry action="EditorBackSpace" count="279" />
+      <entry action="EditorChooseLookupItem" count="27" />
       <entry action="EditorChooseLookupItemCompleteStatement" count="1" />
       <entry action="EditorChooseLookupItemReplace" count="1" />
       <entry action="EditorCompleteStatement" count="3" />
       <entry action="EditorContextInfo" count="25" />
       <entry action="EditorCopy" count="6" />
       <entry action="EditorDeleteLine" count="6" />
-      <entry action="EditorDown" count="102" />
+      <entry action="EditorDown" count="104" />
       <entry action="EditorDuplicate" count="10" />
       <entry action="EditorEnter" count="12" />
       <entry action="EditorEscape" count="10" />
@@ -33,7 +33,7 @@
       <entry action="EditorRight" count="57" />
       <entry action="EditorSelectWord" count="3" />
       <entry action="EditorStartNewLine" count="3" />
-      <entry action="EditorTab" count="10" />
+      <entry action="EditorTab" count="12" />
       <entry action="EditorToggleCase" count="2" />
       <entry action="EditorUnindentSelection" count="1" />
       <entry action="EditorUp" count="72" />
@@ -45,23 +45,24 @@
       <entry action="GotoBookmark1" count="1" />
       <entry action="GotoBookmark4" count="1" />
       <entry action="GotoBookmark6" count="2" />
-      <entry action="GotoClass" count="2" />
+      <entry action="GotoClass" count="3" />
       <entry action="GotoDeclaration" count="8" />
       <entry action="GotoFile" count="4" />
       <entry action="GotoImplementation" count="2" />
       <entry action="GotoSymbol" count="1" />
-      <entry action="HideActiveWindow" count="2" />
+      <entry action="HideActiveWindow" count="4" />
       <entry action="HippieCompletion" count="7" />
       <entry action="ImportSettings" count="1" />
-      <entry action="InsertLiveTemplate" count="8" />
+      <entry action="InsertLiveTemplate" count="12" />
       <entry action="IntroduceVariable" count="7" />
       <entry action="MakeModule" count="3" />
       <entry action="MethodDown" count="8" />
       <entry action="MethodUp" count="9" />
-      <entry action="NewClass" count="2" />
-      <entry action="NewDir" count="2" />
-      <entry action="NewModule" count="2" />
-      <entry action="NewProject" count="2" />
+      <entry action="NewClass" count="4" />
+      <entry action="NewDir" count="3" />
+      <entry action="NewModule" count="3" />
+      <entry action="NewModuleInGroup" count="1" />
+      <entry action="NewProject" count="4" />
       <entry action="NextTemplateVariable" count="1" />
       <entry action="OpenFile" count="1" />
       <entry action="OptimizeImports" count="1" />
@@ -69,8 +70,8 @@
       <entry action="RecentFiles" count="6" />
       <entry action="ReciteWords" count="17" />
       <entry action="ReformatCode" count="5" />
-      <entry action="Run" count="2" />
-      <entry action="RunClass" count="2" />
+      <entry action="Run" count="3" />
+      <entry action="RunClass" count="4" />
       <entry action="SaveAll" count="36" />
       <entry action="SearchEverywhere" count="3" />
       <entry action="SelectNextOccurrence" count="7" />

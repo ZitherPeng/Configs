@@ -25,7 +25,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="G:/IdeaProjects/JspRun/src/cn/jsprun/dao/AttachmentsDao.java" timestamp="1505124035895" />
+      <file name="G:/IdeaProjects/zitherdemo/appium/pom.xml" timestamp="1505207912057" />
       <file name="G:/IdeaProjects/helloword/src/com/zither/HelloWorld.java" timestamp="1505106567846">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -41,10 +41,14 @@
       <file name="/Interface.txt.ft" timestamp="1505102332854">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="G:/IdeaProjects/zitherdemo/selenium/src/main/java/com/zither/demo/demo.java" timestamp="1505208005189">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505102355929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="G:/IdeaProjects/JspRun/src/cn/jsprun/service/CheckFile.java" timestamp="1505119963512" />
       <file name="/Class.txt.ft" timestamp="1505102358589">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,7 +73,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSBhdHRhY2htZW50c0Zvcm0KCSAqIEByZXR1cm4KCSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiZGQiKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -81,28 +85,28 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSBhdHRhY2htZW50c0Zvcm0KCSAqIEByZXR1cm4KCSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiZGQiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">CS8qKgoJICoKCSAqIEBwYXJhbSBhdHRhY2htZW50c0Zvcm0KCSAqIEByZXR1cm4KCSAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBOdWxsIFBvaW50ZXIgRXhjZXB0aW9uCmBgYArnqbrkuK1OdWxs5oyH6ZKIOwpgYGAK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">LSBOdWxsIFBvaW50ZXIgRXhjZXB0aW9uCmBgYArnqbrkuK1OdWxs5oyH6ZKIOwpgYGAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">LSBOdWxsIFBvaW50ZXIgRXhjZXB0aW9uCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ci8qKgogKiBAcGFyYW0KICov</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBvIDogKSB7CiAgICAgICAgICAgIGZvciAoT2JqZWN0IG8gOiApIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBvIDogKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBvIDogKSB7CiAgICAgICAgICAgIGZvciAoT2JqZWN0IG8gOiApIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKE9iamVjdCBvIDogKSB7Cg==</text>

@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="G:/IdeaProjects/zitherdemo" />
         <option value="G:/IdeaProjects/JspRun" />
         <option value="G:/IdeaProjects/mavendemo" />
         <option value="G:/IdeaProjects/helloword" />
@@ -9,10 +10,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="G:/IdeaProjects/JspRun" />
+        <option value="G:/IdeaProjects/zitherdemo" />
       </list>
     </option>
-    <option name="lastPath" value="G:/IdeaProjects/JspRun" />
+    <option name="lastPath" value="G:/IdeaProjects/zitherdemo" />
     <option name="additionalInfo">
       <map>
         <entry key="G:/IdeaProjects/JspRun">
@@ -21,8 +22,8 @@
               <option name="build" value="IU-172.3968.16" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1505126945940" />
-              <option name="buildTimestamp" value="1503351261932" />
+              <option name="projectOpenTimestamp" value="1505205564861" />
+              <option name="buildTimestamp" value="1503351256204" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -45,6 +46,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1505126870452" />
               <option name="buildTimestamp" value="1503351261932" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/IdeaProjects/zitherdemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505273425918" />
+              <option name="buildTimestamp" value="1503351260249" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
