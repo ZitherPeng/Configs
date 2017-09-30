@@ -4,4 +4,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="mc" value="/** &#10; * @Description TODO&#10; */" description="Method annotation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -12,19 +12,19 @@
     <property name="lastTip" value="37" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
-    <property name="selected.color.option.type" value="CLASS_NAME_ATTRIBUTES" />
+    <property name="selected.color.option.type" value="STATIC_METHOD_ATTRIBUTES" />
     <property name="ColorChooser.RecentColors" value="166-226-43-255,,,166-226-46-255,,,32-153-157-255,,,255-255-255-255,,,39-40-34-255,,,216-140-60-255,,,110-112-73-255,,,159-112-80-255,,,82-227-246-255,,,167-236-33-255,,,207-191-173-255,,,147-237-178-255,,,98-133-170-255,,,107-146-159-255,,,71-201-245-255" />
-    <property name="PLUGIN_FILTER" value="x&#10;IDE Features Trainer&#10;Key promoter&#10;vim" />
-    <property name="ideavim.statistics.timestamp" value="1505985945821" />
-    <property name="KEYMAP" value="down&#10;up&#10;j" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="PLUGIN_FILTER" value="vim&#10;x&#10;IDE Features Trainer&#10;Key promoter" />
+    <property name="ideavim.statistics.timestamp" value="1506306056203" />
+    <property name="KEYMAP" value="Next O&#10;back&#10;down&#10;up&#10;j" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="FileTemplates.SelectedTemplate" value="Class" />
-    <property name="file.gist.reindex.count" value="566" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="file.gist.reindex.count" value="584" />
     <property name="plugins.preselection.path" value="$APPLICATION_CONFIG_DIR$/extend-jar" />
     <property name="learn.toolwindow.button.info.shown" value="true" />
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
@@ -34,5 +34,11 @@
     <property name="kotlin.lastUpdateCheck" value="1505991709955" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JAVA" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
   </component>
 </application>

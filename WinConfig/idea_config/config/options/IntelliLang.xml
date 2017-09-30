@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="java">
+      <display-name>Log.debug (oray.appui.utils)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("debug").withParameters("java.lang.String").definedInClass("oray.appui.utils.Log"))]]></place>
+    </injection>
+  </component>
+</application>

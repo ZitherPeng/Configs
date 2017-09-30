@@ -3,7 +3,6 @@ CFML Support
 ClearcasePlugin
 Coverage
 Emma
-Key Promoter X
 PerforceDirectPlugin
 TFS
 com.intellij.aspectj
@@ -19,4 +18,3 @@ org.jetbrains.plugins.haml
 org.jetbrains.plugins.less
 org.jetbrains.plugins.sass
 org.jetbrains.plugins.stylus
-training
