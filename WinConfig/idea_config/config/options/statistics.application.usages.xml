@@ -1,57 +1,65 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="file-type">
-      <project id="zitherdemo" values="IDEA_MODULE,XML,JAVA" collectionTime="1506075483399" />
-      <project id="appui" values="IDEA_MODULE,PLAIN_TEXT,JAVA,XML" collectionTime="1506738093317" />
+    <group name="JavaScript versions">
+      <project id="zitherdemo" values="ECMAScript 5.1" collectionTime="1506075483769" />
+      <project id="appium" values="ECMAScript 5.1" collectionTime="1507100363356" />
+      <project id="appui" values="ECMAScript 5.1" collectionTime="1506738093567" />
     </group>
-    <group name="spring">
-      <project id="zitherdemo" values="fileset_userConfiguredPerFacet_0,fileset_autodetect_NONE" collectionTime="1506075483775" />
-    </group>
-    <group name="images.ide.background">
-      <project id="zitherdemo" values="frame 0,editor 0" collectionTime="1506075483485" />
-      <project id="appui" values="editor=0,frame=0" collectionTime="1506738093348" />
-    </group>
-    <group name="module-language-level">
-      <project id="zitherdemo" values="JDK_1_5" collectionTime="1506075483526" />
-      <project id="appui" values="JDK_1_8" collectionTime="1506738093395" />
-    </group>
-    <group name="frameworks">
-      <project id="zitherdemo" values="Spring" collectionTime="1506075483287" />
+    <group name="module type">
+      <project id="zitherdemo" values="JAVA_MODULE" collectionTime="1506075483288" />
+      <project id="appium" values="JAVA_MODULE" collectionTime="1507100363102" />
+      <project id="appui" values="JAVA_MODULE" collectionTime="1506738093176" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="zitherdemo" values="Application" collectionTime="1506075483289" />
       <project id="appui" values="Application" collectionTime="1506738093176" />
     </group>
-    <group name="libraries">
-      <project id="zitherdemo" values="spring" collectionTime="1506075483480" />
-      <project id="appui" values="CDI" collectionTime="1506738093348" />
+    <group name="file-type">
+      <project id="zitherdemo" values="JAVA,IDEA_MODULE,XML" collectionTime="1506075483399" />
+      <project id="appium" values="XML,IDEA_MODULE" collectionTime="1507100363172" />
+      <project id="appui" values="XML,JAVA,PLAIN_TEXT,IDEA_MODULE" collectionTime="1506738093317" />
+    </group>
+    <group name="images.ide.background">
+      <project id="zitherdemo" values="editor 0,frame 0" collectionTime="1506075483485" />
+      <project id="appium" values="frame 0,editor 0" collectionTime="1507100363198" />
+      <project id="appui" values="frame 0,editor 0" collectionTime="1506738093348" />
+    </group>
+    <group name="module-language-level">
+      <project id="zitherdemo" values="JDK_1_5" collectionTime="1506075483526" />
+      <project id="appium" values="JDK_1_5" collectionTime="1507100363202" />
+      <project id="appui" values="JDK_1_8" collectionTime="1506738093395" />
     </group>
     <group name="Editor">
       <project id="zitherdemo" values="autoOptimizeImports" collectionTime="1506075483407" />
     </group>
-    <group name="vcs-options">
-      <project id="zitherdemo" values="offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.files.up.to.date.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,commit.before.check.code.smell.enabled" collectionTime="1506075483286" />
-      <project id="appui" values="commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,perform.rollback.in.background.disabled,commit.before.check.code.smell.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.file.disabled" collectionTime="1506738093176" />
+    <group name="spring">
+      <project id="zitherdemo" values="fileset_autodetect_NONE,fileset_userConfiguredPerFacet_0" collectionTime="1506075483775" />
+    </group>
+    <group name="frameworks">
+      <project id="zitherdemo" values="Spring" collectionTime="1506075483287" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="zitherdemo" values="Project" collectionTime="1506075483769" />
+      <project id="appium" values="Project" collectionTime="1507100363356" />
+      <project id="appui" values="Project" collectionTime="1506738093567" />
+    </group>
+    <group name="Git">
+      <project id="zitherdemo" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1506075483528" />
+      <project id="appium" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1507100363203" />
+      <project id="appui" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1506738093395" />
+    </group>
+    <group name="libraries">
+      <project id="zitherdemo" values="spring" collectionTime="1506075483480" />
+      <project id="appui" values="CDI" collectionTime="1506738093348" />
     </group>
     <group name="Libraries by jars">
       <project id="zitherdemo" values="spring-core_4.3.2.RELEASE" collectionTime="1506075483525" />
       <project id="appui" values="velocity_1.7" collectionTime="1506738093395" />
     </group>
-    <group name="Git">
-      <project id="zitherdemo" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1506075483528" />
-      <project id="appui" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled" collectionTime="1506738093395" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="zitherdemo" values="Project" collectionTime="1506075483769" />
-      <project id="appui" values="Project" collectionTime="1506738093567" />
-    </group>
-    <group name="module type">
-      <project id="zitherdemo" values="JAVA_MODULE" collectionTime="1506075483288" />
-      <project id="appui" values="JAVA_MODULE" collectionTime="1506738093176" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="zitherdemo" values="ECMAScript 5.1" collectionTime="1506075483769" />
-      <project id="appui" values="ECMAScript 5.1" collectionTime="1506738093567" />
+    <group name="vcs-options">
+      <project id="zitherdemo" values="check.conflicts.in.background.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.before.rearrange.disabled,commit.before.check.files.up.to.date.disabled,changelist.preselect.existing.disabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,show.changes.preview.disabled,commit.before.reformat.project.disabled" collectionTime="1506075483286" />
+      <project id="appium" values="perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,perform.checkout.in.background.enabled,offer.move.partially.committed.disabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,changelist.make.new.active.disabled,perform.commit.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.file.disabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.smell.enabled,include.text.into.shelf.enabled,commit.before.reformat.project.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,show.changes.preview.disabled" collectionTime="1507100363101" />
+      <project id="appui" values="commit.use.right.margin.enabled,include.text.into.shelf.enabled,commit.before.reformat.file.disabled,perform.commit.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.files.up.to.date.disabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,commit.before.reformat.project.disabled,perform.add_remove.in.background.enabled,show.changes.preview.disabled,perform.edit.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1506738093176" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -79,21 +87,21 @@
       <entry feature="ide.settings.Font" count="12" />
       <entry feature="ide.settings.General" count="12" />
       <entry feature="ide.settings.GitHub" count="1" />
-      <entry feature="ide.settings.Importing" count="3" />
+      <entry feature="ide.settings.Importing" count="4" />
       <entry feature="ide.settings.Inspections" count="2" />
       <entry feature="ide.settings.Java" count="19" />
       <entry feature="ide.settings.Java_Compiler" count="2" />
       <entry feature="ide.settings.Keymap" count="15" />
       <entry feature="ide.settings.Language_Defaults" count="2" />
       <entry feature="ide.settings.Live_Templates" count="11" />
-      <entry feature="ide.settings.Maven" count="4" />
+      <entry feature="ide.settings.Maven" count="9" />
       <entry feature="ide.settings.Plugins" count="5" />
       <entry feature="ide.settings.Project_Structure" count="1" />
       <entry feature="ide.settings.Subversion" count="7" />
       <entry feature="ide.settings.System_Settings" count="1" />
       <entry feature="ide.settings.Version_Control" count="3" />
       <entry feature="ide.settings.Vim_Emulation" count="4" />
-      <entry feature="ideaapp.started" count="40" />
+      <entry feature="ideaapp.started" count="47" />
       <entry feature="project.view.pane.PackagesPane" count="4" />
       <entry feature="project.view.pane.ProjectPane" count="8" />
       <entry feature="project.view.pane.Scope.Problems" count="2" />
@@ -105,7 +113,9 @@
       <entry feature="tips.of.the.day.next" count="36" />
       <entry feature="tips.of.the.day.prev" count="1" />
       <entry feature="uml.ShowDiagram.JAVA" count="1" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="14" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
     </counts>
   </component>
 </application>

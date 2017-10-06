@@ -2,19 +2,16 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="G:/IdeaProjects/appui" />
-        <option value="G:/IdeaProjects/zitherdemo" />
-        <option value="G:/IdeaProjects/JspRun" />
-        <option value="G:/IdeaProjects/mavendemo" />
-        <option value="G:/IdeaProjects/helloword" />
+        <option value="G:/IdeaProjects/appium" />
+        <option value="G:/IdeaProjects/appuim" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="G:/IdeaProjects/appui" />
+        <option value="G:/IdeaProjects/appium" />
       </list>
     </option>
-    <option name="lastPath" value="G:/IdeaProjects/appui" />
+    <option name="lastPath" value="G:/IdeaProjects/appium" />
     <option name="additionalInfo">
       <map>
         <entry key="G:/IdeaProjects/JspRun">
@@ -28,6 +25,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="G:/IdeaProjects/appium">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507108153848" />
+              <option name="buildTimestamp" value="1506404261905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="G:/IdeaProjects/appui">
           <value>
             <RecentProjectMetaInfo>
@@ -36,6 +44,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1506736293174" />
               <option name="buildTimestamp" value="1505156604040" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/IdeaProjects/appuim">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507108016409" />
+              <option name="buildTimestamp" value="1506404261905" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

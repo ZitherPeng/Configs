@@ -6,8 +6,8 @@
       <entry action="Run@MainToolbar" count="19" />
       <entry action="Runner.RestoreLayout@RunnerToolbar" count="7" />
       <entry action="ShowProjectStructureSettings@MainToolbar" count="1" />
-      <entry action="ShowSettings@MainToolbar" count="4" />
-      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="36" />
+      <entry action="ShowSettings@MainToolbar" count="5" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="37" />
       <entry action="com.intellij.codeInsight.template.impl.TemplateListPanel$6@ToolbarDecorator" count="1" />
       <entry action="com.intellij.ide.favoritesTreeView.actions.DeleteFromFavoritesAction@ToolbarDecorator" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5@FileTemplatesConfigurable" count="4" />

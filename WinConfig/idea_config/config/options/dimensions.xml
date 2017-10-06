@@ -32,6 +32,8 @@
     <location key="#Inspections.0.0.1920.1080@120dpi" x="589" y="183" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="627" y="214" />
     <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080@120dpi" x="710" y="211" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1420" y="913" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@120dpi" x="734" y="367" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="338" />
     <size key="SettingsEditor.0.0.1920.1080" width="1038" height="623" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1532" height="836" />
@@ -47,5 +49,6 @@
     <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="955" height="331" />
     <size key="new project wizard.0.0.1920.1080@120dpi" width="877" height="638" />
     <size key="#Vim_Emulation.0.0.1920.1080@120dpi" width="802" height="699" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="133" />
   </component>
 </application>
