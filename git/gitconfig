@@ -1,0 +1,4 @@
+[alias]
+	ci = commit
+	st = status -sb
+	hi = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short

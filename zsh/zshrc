@@ -1,0 +1,255 @@
+# quick function
+alias ip='ifconfig | grep inet'
+alias refresh='source ~/.zshrc'
+alias hrund='hrun --log-level debug'
+alias har2casey='har2case -2y'
+alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
+# ssh quick connect
+alias ssh48='sshpass -p $key ssh 48'
+
+# If you come from bash you might have to change your $PATH.
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
+####################### PATH SETTING #########################
+# brew
+export HOMEBREW_NO_AUTO_UPDATE=true
+
+# jdk 
+jdk7_home=/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home
+jdk8_home=/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home
+jdk11_home=/Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home
+
+export JAVA_HOME=$jdk8_home
+export CLASSPATH=.:$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar
+export PATH=$PATH:$JAVA_HOME/bin
+
+alias jdk7="export JAVA_HOME=$jdk7_home"
+alias jdk8="export JAVA_HOME=$jdk8_home"
+alias jdk11="export JAVA_HOME=$jdk11_home"
+
+
+# maven
+mvn_home=/Users/zither/developerTools/apache-maven-3.5.3
+
+export MAVEN_HOME=$mvn_home
+export PATH=$PATH:$MAVEN_HOME/bin
+
+# android sdk
+export ANDROID_HOME=/Users/zither/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$ANDROID_HOME/build-tools/28.0.3
+
+# jmeter
+alias jmeter='jmeter -j /log/jmeter/jmeter.log'
+export JMETER_HOME=/opt/apache-jmeter-5.1.1
+export PATH=$PATH:$JMETER_HOME/bin
+
+# nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# node
+export NODE_HOME=/Users/zither/developerTools/node
+export PATH=$PATH:$NODE_HOME/bin
+
+# added by Miniconda3 4.5.12 installer
+# >>> conda init >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$(CONDA_REPORT_ERRORS=false '/Users/zither/developerTools/miniconda3/bin/conda' shell.bash hook 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    \eval "$__conda_setup"
+else
+    if [ -f "/Users/zither/developerTools/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/Users/zither/developerTools/miniconda3/etc/profile.d/conda.sh"
+        CONDA_CHANGEPS1=false conda activate base
+    else
+        \export PATH="/Users/zither/developerTools/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# conda config --set auto_activate_base false
+# <<< conda init <<<
+
+
+#******************** FUNCTION SETTING **********************#
+
+# add trash function using graphical interface .Trash
+alias rm='echo "This is not the command you are looking for, Please Use "trash"!!!"; false'
+alias trash-list='ls -la ~/.Trash'
+alias trash-restore=undelfile
+alias trash-empty=cleartrash
+
+trash(){
+  for filename in $@
+  do
+    if [ -n "`find ~/.Trash -maxdepth 1 -name ${filename}`" ]
+    then
+    mv ${filename} ~/.Trash/${filename}_`date +%Y%m%d-%H%M%S`
+    else
+    mv ${filename} ~/.Trash/
+    fi
+  done
+}
+
+cleartrash(){
+  if [[ $SHELL =~ 'zsh' ]]
+  then
+    if [[ $0 =~ 'bash' ]]
+    then 
+    read -p "clear sure?[y/n] " confirm
+    else
+    vared -p "clear sure?[y/n] " -c confirm
+    fi
+  elif [[ $SHELL =~ 'bash' ]]
+  then
+  read -p "clear sure?[y/n]" confirm
+  fi
+  [ $confirm = 'y' ] || [ $confirm = 'Y' ]  && /bin/rm -rf ~/.Trash/*  && find ~/.Trash/ -mindepth 1 -name '.*' | xargs /bin/rm -rf
+}
+
+undelfile(){
+  mv -i ~/.Trash/$@ ./
+}
+
+# proxy function
+proxyon(){
+ networksetup -setwebproxy Wi-Fi $1 $2
+ networksetup -setsecurewebproxy Wi-Fi $1 $2
+}
+proxyoff(){
+ networksetup -setwebproxystate Wi-Fi off
+ networksetup -setsecurewebproxystate Wi-Fi off
+}
+shproxyon(){
+ export http_proxy=http://$1:$2
+ export https_proxy=http://$1:$2
+}
+shproxyoff(){
+ unset http_proxy
+ unset https_proxy
+}
+
+# network function
+function portused(){
+ echo "lsof -iTCP -sTCP:LISTEN"
+ echo "------------------------------------------------------"
+ lsof -iTCP -sTCP:LISTEN
+ echo "                                                      "
+ echo "netstat -ant | grep LISTEN"
+ echo "------------------------------------------------------"
+ netstat -ant | grep LISTEN
+ echo "                                                      "
+}
+
+#************************** END *****************************#
+
+
+#********************** CUSTOM SETTING **********************#
+logo() {
+echo '
+'
+}
+logo
+#************************** END *****************************#
+
+# Path to your oh-my-zsh installation.
+export ZSH="/Users/zither/.oh-my-zsh"
+
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time oh-my-zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+ZSH_THEME="luckycoding"
+
+# Set list of themes to pick from when loading at random
+# Setting this variable when ZSH_THEME=random will cause zsh to load
+# a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
+# If set to an empty array, this variable will have no effect.
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+
+# Uncomment the following line to use case-sensitive completion.
+# CASE_SENSITIVE="true"
+
+# Uncomment the following line to use hyphen-insensitive completion.
+# Case-sensitive completion must be off. _ and - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
+
+# Uncomment the following line to disable bi-weekly auto-update checks.
+# DISABLE_AUTO_UPDATE="true"
+
+# Uncomment the following line to automatically update without prompting.
+# DISABLE_UPDATE_PROMPT="true"
+
+# Uncomment the following line to change how often to auto-update (in days).
+# export UPDATE_ZSH_DAYS=13
+
+# Uncomment the following line if pasting URLs and other text is messed up.
+# DISABLE_MAGIC_FUNCTIONS=true
+
+# Uncomment the following line to disable colors in ls.
+# DISABLE_LS_COLORS="true"
+
+# Uncomment the following line to disable auto-setting terminal title.
+# DISABLE_AUTO_TITLE="true"
+
+# Uncomment the following line to enable command auto-correction.
+# ENABLE_CORRECTION="true"
+
+# Uncomment the following line to display red dots whilst waiting for completion.
+# COMPLETION_WAITING_DOTS="true"
+
+# Uncomment the following line if you want to disable marking untracked files
+# under VCS as dirty. This makes repository status check for large repositories
+# much, much faster.
+# DISABLE_UNTRACKED_FILES_DIRTY="true"
+
+# Uncomment the following line if you want to change the command execution time
+# stamp shown in the history command output.
+# You can set one of the optional three formats:
+# "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
+# or set a custom format using the strftime function format specifications,
+# see 'man strftime' for details.
+# HIST_STAMPS="mm/dd/yyyy"
+
+# Would you like to use another custom folder than $ZSH/custom?
+# ZSH_CUSTOM=/path/to/new-custom-folder
+
+# Which plugins would you like to load?
+# Standard plugins can be found in ~/.oh-my-zsh/plugins/*
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(
+ git
+ brew
+ pipenv
+ osx
+ npm
+)
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# export MANPATH="/usr/local/man:$MANPATH"
+
+# You may need to manually set your language environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='mvim'
+# fi
+
+# Compilation flags
+# export ARCHFLAGS="-arch x86_64"
+
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
